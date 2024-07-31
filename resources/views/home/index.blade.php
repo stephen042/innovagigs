@@ -5,22 +5,10 @@
 <main>
     <!-- tp-hero-area start -->
     <section class="tp-hero__area fix tp-hero__space tp-hero__bg p-relative"
-        data-background="assets/img/hero/hero-bg-1.jpg">
+        data-background="assets/img/project/project-bg-shape.png">
         <div class="tp-hero__social">
             <div class="tp-hero__social-content">
                 <ul>
-                    <li>
-                        <a href="#">
-                            <i class="fab fa-facebook-f"></i>
-                            <span>Facebook</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fab fa-twitter"></i>
-                            <span>Twitter</span>
-                        </a>
-                    </li>
                     <li>
                         <a href="#">
                             <i class="fab fa-dribbble"></i>
@@ -33,6 +21,18 @@
                             <span>Behance</span>
                         </a>
                     </li>
+                    <li>
+                        <a href="#">
+                            <i class="fab fa-instagram"></i>
+                            <span>Instagram</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="fab fa-twitter"></i>
+                            <span>Twitter</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -41,10 +41,9 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-7">
                         <div class="tp-hero__title-box mb-70 p-relative">
-                            <span class="mb-20 tp-hero__subtitle">Creative Agency Beside New York City</span>
-                            <h3 class="tp-hero__title tp-marketing tp-split__text tp-split__in-right p-relative">
-                                Digital Marketing
-                                Design Studio<span>,</span><br>Driven by Strategy
+                            <span class="mb-20 tp-hero__subtitle">Creative Agency Make Your Dreams a reality</span>
+                            <h3 class="tp-hero__title tp-marketing tp-split__text tp-split__in-right p-relative ">
+                                Softeware Solution,</span><br>Driven by Strategy and Execellence
                             </h3>
                             <div class="tp-hero__title-shape">
                                 <span>
@@ -77,7 +76,7 @@
                     <div class="col-xl-4 col-lg-5">
                         <div class="tp-hero__content tp-hero-content">
                             <div class="tp-hero__thumb mb-80 p-relative">
-                                <img src="assets/img/hero/hero-thumb-1.png" alt="">
+                                <img src="assets/img/logo/logo_old.jpg" width="400" alt="logo">
                                 <div class="tp-hero__thumb-shape">
                                     <span>
                                         <svg width="72" height="72" viewbox="0 0 72 72" fill="none"
@@ -89,10 +88,7 @@
                                     </span>
                                 </div>
                             </div>
-                            <p>Business ocean-bass sea unicorn fish creative
-                                treefish eulachon <span class="text-white">tidewater</span> goby. Flier, bighe studio
-                                carp Devario shortnose sucker platy smalleye arrow
-                                squaretail zebra turkeyfish yellowfin that specialize</p>
+                            <p>At Innovagigs, we believe that software development is not just a profession but a powerful way to transform ideas into reality. Our team is driven by the conviction that innovative solutions can make a significant impact.</p>
                         </div>
                     </div>
                 </div>

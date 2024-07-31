@@ -2851,11 +2851,11 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-offcanvas__social .icon.twitter {
-  background-color: #4ccef9;
+  background-color: #101111;
 }
 
-.tp-offcanvas__social .icon.youtube {
-  background-color: #ff0000;
+.tp-offcanvas__social .icon.instagram {
+  background-color: #ff0080;
 }
 
 .tp-offcanvas__social .icon.linkedin {
