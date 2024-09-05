@@ -9,7 +9,7 @@
     <title>{{env('APP_NAME')}} - {{$title ?? " "}}</title>
 
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/img/logo/favicon.png')}}">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -51,30 +51,6 @@
     </div>
     <!-- mouse cursor drag end -->
 
-    <!-- pre loader area start -->
-    <div id="loading">
-        <div id="loading-center">
-            <div id="loading-center-absolute">
-                <div class="tp-preloader-content">
-                    <div class="tp-preloader-logo">
-                        <div class="tp-preloader-circle">
-                            <svg width="190" height="190" viewbox="0 0 380 380" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <circle stroke="#D9D9D9" cx="190" cy="190" r="180" stroke-width="6"
-                                    stroke-linecap="round">
-                                </circle>
-                                <circle stroke="red" cx="190" cy="190" r="180" stroke-width="6" stroke-linecap="round">
-                                </circle>
-                            </svg>
-                        </div>
-                        <img src="assets/img/logo/favicon.png" alt="">
-                    </div>
-                    <p class="tp-preloader-subtitle">Innovagigs...</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- pre loader area end -->
 
     <livewire:home.header />
 
@@ -96,7 +72,7 @@
                                     <div class="text-center tp-cta__item">
                                         <h3
                                             class="tp-cta__title tp-split__text tp-split__in-right tp-cursor-point-area">
-                                            <a href="contact.html">Get in <span>touch</span></a>
+                                            <a href="contact">Get in <span>touch</span></a>
                                         </h3>
                                     </div>
                                 </div>
@@ -110,7 +86,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                             <div class="mb-40 tp-footer__widget footer-col-1">
                                 <div class="tp-footer__logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         {{-- <img src="assets/img/logo/logo-1.png" alt=""> --}}
                                         <img src="assets/img/logo/logo_old.jpg" width="150" alt="logo">
                                     </a>
@@ -122,7 +98,7 @@
                                 <h3 class="tp-footer__widget-title">Contact info</h3>
                                 <div class="tp-footer__contact-info">
                                     <div class="tp-footer__list">
-                                        <a href="#">{{ config('app.app_address')}}</a>
+                                        {{-- <a href="#">{{ config('app.app_address')}}</a> --}}
                                         <a href="tel:{{ config('app.app_number')}}">{{ config('app.app_number')}}</a>
                                         <a href="mailto:{{ config('app.app_mail')}}">{{ config('app.app_mail')}}</a>
                                         <a href="#">Office Hours: 8AM - 11PM</a>
@@ -135,7 +111,7 @@
                             <div class="tp-footer__widget footer-col-4">
                                 <h3 class="tp-footer__widget-title">Updates From Us</h3>
                                 <div class="tp-footer__form">
-                                    <form action="main.php" method="post">
+                                    <form action="" method="post">
                                         <input type="email" placeholder="Enter mail">
                                         <div class="tp-footer__action mt-45">
                                             <button type="submit">subscribe <span><i
@@ -154,7 +130,7 @@
                             <div class="row align-items-center">
                                 <div class="col-xl-6 col-lg-7">
                                     <div class="tp-copyright__text">
-                                        <p><span>©2024</span> Oclata by design. All Rights Reserved</p>
+                                        <p>2024 -<span> {{date('Y')}}</span> From Innovagigs. All Rights Reserved</p>
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-5">

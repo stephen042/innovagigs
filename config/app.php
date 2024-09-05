@@ -123,7 +123,7 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
-    'app_number' => '+234 903 203 5127',
-    'app_address' => 'No 12, Oluwole Street, Ibadan, Oyo State, Nigeria',
+    'app_number' => '+234 810 528 6746',
+    'app_address' => '',//'No 12, Oluwole Street, Ibadan, Oyo State, Nigeria',
     'app_mail' => 'support@innovagigs.com',
 ];

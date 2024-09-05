@@ -35,22 +35,19 @@ new class extends Component {
                     <nav class="tp-main-menu-content">
                         <ul>
                             <li>
-                                <a href="index.html" class="">Home</a>
+                                <a href="{{route('home')}}" class="" wire:navigate>Home</a>
                             </li>
                             <li>
-                                <a href="contact.html">About</a>
+                                <a href="{{route('about')}}" wire:navigate>About</a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="{{route('contact')}}" wire:navigate>Contact</a>
                             </li>
                             <li>
-                                <a href="service.html">Our Service</a>
+                                <a href="{{route('services')}}" wire:navigate>Our Service</a>
                             </li>
                             <li>
-                                <a href="project.html">Project</a>
-                            </li>
-                            <li>
-                                <a href="team.html">Our Team</a>
+                                <a href="{{route('price')}}" wire:navigate>Our Plans</a>
                             </li>
                         </ul>
                     </nav>
@@ -66,7 +63,7 @@ new class extends Component {
                     <h4 class="tp-offcanvas__title">Contacts</h4>
                     <div class="tp-offcanvas__contact-content d-flex">
                         <div class="tp-offcanvas__contact-content-icon">
-                            <i class="far fa-location"></i>
+                            {{-- <i class="far fa-location"></i> --}}
                         </div>
                         <div class="tp-offcanvas__contact-content-content">
                             <a
@@ -131,22 +128,19 @@ new class extends Component {
                             <nav>
                                 <ul>
                                     <li>
-                                        <a href="index.html" class="">Home</a>
+                                        <a href="{{route('home')}}" class="" wire:navigate>Home</a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">About</a>
+                                        <a href="{{route('about')}}" wire:navigate>About</a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="{{route('contact')}}" wire:navigate>Contact</a>
                                     </li>
                                     <li>
-                                        <a href="service.html">Our Service</a>
+                                        <a href="{{route('services')}}" wire:navigate>Our Service</a>
                                     </li>
                                     <li>
-                                        <a href="project.html">Project</a>
-                                    </li>
-                                    <li>
-                                        <a href="team.html">Our Team</a>
+                                        <a href="{{route('price')}}" wire:navigate>Our Plans</a>
                                     </li>
                                 </ul>
                             </nav>
