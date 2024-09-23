@@ -140,6 +140,9 @@ new class extends Component {
                                         <a href="{{route('services')}}" wire:navigate>Our Service</a>
                                     </li>
                                     <li>
+                                        <a href="{{route('courses')}}" wire:navigate>Our Courses</a>
+                                    </li>
+                                    <li>
                                         <a href="{{route('price')}}" wire:navigate>Our Plans</a>
                                     </li>
                                 </ul>

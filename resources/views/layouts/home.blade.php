@@ -101,26 +101,13 @@
                                         {{-- <a href="#">{{ config('app.app_address')}}</a> --}}
                                         <a href="tel:{{ config('app.app_number')}}">{{ config('app.app_number')}}</a>
                                         <a href="mailto:{{ config('app.app_mail')}}">{{ config('app.app_mail')}}</a>
-                                        <a href="#">Office Hours: 8AM - 11PM</a>
+                                        <a href="#">Office Hours: 8AM - 5PM</a>
                                         <a href="#">Week Days</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                            <div class="tp-footer__widget footer-col-4">
-                                <h3 class="tp-footer__widget-title">Updates From Us</h3>
-                                <div class="tp-footer__form">
-                                    <form action="" method="post">
-                                        <input type="email" placeholder="Enter mail">
-                                        <div class="tp-footer__action mt-45">
-                                            <button type="submit">subscribe <span><i
-                                                        class="fas fa-paper-plane"></i></span></button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
+                        <livewire:home.get-updates />
                     </div>
                 </div>
                 <!-- tp copyright area start -->
@@ -135,11 +122,9 @@
                                 </div>
                                 <div class="col-xl-6 col-lg-5">
                                     <div class="tp-copyright__social text-lg-end">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                        <a href="#"><i class="fab fa-dribbble"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
+                                        <a href="#"><i class="fab fa-facebook-f text-primary"></i></a>
+                                        <a href="#"><i class="fab fa-twitter text-info"></i></a>
+                                        <a href="#"><i class="fab fa-linkedin-in text-info"></i></a>
                                     </div>
                                 </div>
                             </div>

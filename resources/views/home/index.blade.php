@@ -1131,7 +1131,7 @@
                             data-wow-delay=".5s">
                             <div class="tp-price__head mb-55">
                                 <p>STARTS FROM </p>
-                                <h3 class="tp-price__value">$399.99<span>/USD</span> 
+                                <h3 class="tp-price__value">$299.99<span>/USD</span> 
                                     <span><em class="text-danger"><s>$599.99</s></em></span>
                                 </h3>
                                 <div class="tp-price__plan">
@@ -1184,7 +1184,7 @@
                         <div class="tp-price__item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                             <div class="p-0 tp-price__head mb-55">
                                 <p>STARTS FROM </p>
-                                <h3 class="tp-price__value">$1,700.00<span>/USD</span></h3>
+                                <h3 class="tp-price__value">$1,100.00<span>/USD</span></h3>
                                 <div class="tp-price__plan">
                                     <span>Premium Plan</span>
                                 </div>

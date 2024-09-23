@@ -14,6 +14,8 @@ Route::view('/services', 'home.services', ['title' => 'Services Us'])
     ->name('services');
 Route::view('/price', 'home.price', ['title' => 'Our prices'])
     ->name('price');
+Route::view('/courses', 'home.courses', ['title' => 'Our courses'])
+    ->name('courses');
 
 // Routes for admin pages
 Route::prefix('admin')->group(function () {
