@@ -11,24 +11,12 @@
                 <ul>
                     <li>
                         <a href="#">
-                            <i class="fab fa-dribbble"></i>
-                            <span>Dribbble</span>
+                            <i class="fab fa-linkedin-in"></i>
+                            <span>LinkedIn</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
-                            <i class="fab fa-behance"></i>
-                            <span>Behance</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fab fa-instagram"></i>
-                            <span>Instagram</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
+                        <a href="https://x.com/innovagigs">
                             <i class="fab fa-twitter"></i>
                             <span>Twitter</span>
                         </a>
@@ -998,48 +986,6 @@
                             </h3>
                             <p>If you ask our clients what it’s like working with us, they’ll tell you about our unwavering dedication, creativity, and the real success we deliver. We love building brands—whether it’s crafting visually stunning identities, designing immersive digital experiences, or driving strategic marketing campaigns, we bring passion and precision to every project.</p>
 
-                        </div>
-                        <div class="tp-progress__bar p-relative mb-60">
-                            <span>85%</span>
-                            <h5 class="tp-progress__bar-title">Architecture Design</h5>
-                            <div class="progress">
-                                <div class="progress-bar"
-                                    style="width: 85%; visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: slideInLeft;">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-chooseus__progress d-sm-flex align-items-center wow tpfadeUp"
-                            data-wow-duration=".9s" data-wow-delay=".3s">
-                            <div class="tp-progress__item">
-                                <div class="tp-progress__canva">
-                                    <input type="text" class="knob" value="0" data-rel="80" data-linecap="round"
-                                        data-width="130" data-height="130" data-bgcolor="#fff" data-fgcolor="#FF521C"
-                                        data-thickness=".07" data-readonly="true" disabled="">
-                                </div>
-                                <div class="tp-progress__content">
-                                    <h4 class="tp-progress__title">Mobile <br>App</h4>
-                                </div>
-                            </div>
-                            <div class="tp-progress__item">
-                                <div class="tp-progress__canva">
-                                    <input type="text" class="knob" value="0" data-rel="84" data-linecap="round"
-                                        data-width="130" data-height="130" data-bgcolor="#fff" data-fgcolor="#FF521C"
-                                        data-thickness=".07" data-readonly="true" disabled="">
-                                </div>
-                                <div class="tp-progress__content">
-                                    <h4 class="tp-progress__title">Web <br>APP</h4>
-                                </div>
-                            </div>
-                            <div class="tp-progress__item">
-                                <div class="tp-progress__canva">
-                                    <input type="text" class="knob" value="0" data-rel="86" data-linecap="round"
-                                        data-width="130" data-height="130" data-bgcolor="#fff" data-fgcolor="#FF521C"
-                                        data-thickness=".07" data-readonly="true" disabled="">
-                                </div>
-                                <div class="tp-progress__content">
-                                    <h4 class="tp-progress__title">Graphics <br>Design</h4>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

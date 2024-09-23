@@ -88,9 +88,7 @@ new class extends Component {
                     </div>
                 </div>
                 <div class="tp-offcanvas__social">
-                    <a class="icon facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="icon twitter" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="icon instagram" href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="icon twitter" href="https://x.com/innovagigs"><i class="fab fa-twitter"></i></a>
                     <a class="icon linkedin" href="#"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>

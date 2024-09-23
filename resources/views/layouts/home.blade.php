@@ -122,8 +122,7 @@
                                 </div>
                                 <div class="col-xl-6 col-lg-5">
                                     <div class="tp-copyright__social text-lg-end">
-                                        <a href="#"><i class="fab fa-facebook-f text-primary"></i></a>
-                                        <a href="#"><i class="fab fa-twitter text-info"></i></a>
+                                        <a href="https://x.com/innovagigs"><i class="fab fa-twitter text-info"></i></a>
                                         <a href="#"><i class="fab fa-linkedin-in text-info"></i></a>
                                     </div>
                                 </div>

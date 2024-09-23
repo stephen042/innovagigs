@@ -54,8 +54,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}" style="ba
                             <div class="tp-contact__social">
                                 <h3 class="tp-contact__title">Follow</h3>
                                 <div class="tp-contact__social-link">
-                                    <a href="#"><i class="fab fa-facebook-f text-primary"></i></a>
-                                    <a href="#"><i class="fab fa-twitter text-info"></i></a>
+                                    <a href="https://x.com/innovagigs"><i class="fab fa-twitter text-info"></i></a>
                                     <a href="#"><i class="fab fa-linkedin-in text-info"></i></a>
                                 </div>
                             </div>
