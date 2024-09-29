@@ -28,7 +28,7 @@
                 </td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $message->email}}</td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">
-                    <textarea disabled rows="5"
+                    <textarea disabled rows="5" cols="30"
                         class="w-full p-3 text-gray-600 border rounded-md cursor-not-allowed resize-none border-zinc-300 dark:border-zinc-700 bg-zinc-50 dark:bg-zinc-800 focus:outline-none">
                         {{$message->message}}
                     </textarea>
