@@ -17,7 +17,8 @@
             @forelse ($messages as $item => $message)
             <tr class="bg-inherit dark:bg-zinc-800">
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $item+1 }}</td>
-                <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $message->created_at->format('F j, Y, g:i a') }}</td>
+                <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $message->created_at->format('F
+                    j, Y, g:i a') }}</td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">
                     <div class="flex items-center gap-2">
                         <img class="w-8 h-8 rounded-full" src="{{asset('assets/img/logo/favicon.png')}}"
@@ -27,10 +28,12 @@
                 </td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $message->email}}</td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">
-                    <textarea cols="30" rows="5" disabled class="text-black">
+                    <textarea disabled rows="5"
+                        class="w-full p-3 text-gray-600 border rounded-md cursor-not-allowed resize-none border-zinc-300 dark:border-zinc-700 bg-zinc-50 dark:bg-zinc-800 focus:outline-none">
                         {{$message->message}}
                     </textarea>
                 </td>
+
             </tr>
             @empty
             <tr class="bg-inherit dark:bg-zinc-800">
