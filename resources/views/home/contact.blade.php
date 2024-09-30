@@ -15,6 +15,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}" style="ba
                         <span><a href="#">Contact Us</a></span>
                     </div>
                     <h3 class="breadcrumb__title tp-split__text tp-split__in-right">CONTACT US</h3>
+                    <p>send us a message today !!!</p>
                 </div>
             </div>
         </div>

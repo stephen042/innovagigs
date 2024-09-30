@@ -358,7 +358,17 @@
                                                 <div id="collapseThree" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>First impressions matter, and great design can make all the difference. Our graphic design services encompass a wide range of needs, from logo creation and branding to marketing materials and digital assets. We combine creativity with strategic thinking to deliver designs that capture your brand’s essence and communicate your message effectively. Our goal is to create visually stunning graphics that resonate with your audience and elevate your brand’s identity. Whether you need eye-catching visuals for print or digital platforms, our design team is here to bring your vision to life.</p>
+                                                        <p>First impressions matter, and great design can make all the
+                                                            difference. Our graphic design services encompass a wide
+                                                            range of needs, from logo creation and branding to marketing
+                                                            materials and digital assets. We combine creativity with
+                                                            strategic thinking to deliver designs that capture your
+                                                            brand’s essence and communicate your message effectively.
+                                                            Our goal is to create visually stunning graphics that
+                                                            resonate with your audience and elevate your brand’s
+                                                            identity. Whether you need eye-catching visuals for print or
+                                                            digital platforms, our design team is here to bring your
+                                                            vision to life.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -368,21 +378,46 @@
                                                         data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                         aria-expanded="false" aria-controls="collapseFour">
                                                         <span class="accordion-icon">
-                                                            <svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                <mask id="mask0_1_1918" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="54" height="54">
+                                                            <svg width="54" height="54" viewBox="0 0 54 54" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <mask id="mask0_1_1918" style="mask-type:luminance"
+                                                                    maskUnits="userSpaceOnUse" x="0" y="0" width="54"
+                                                                    height="54">
                                                                     <path d="M0 0H54V54H0V0Z" fill="currentColor">
                                                                     </path>
                                                                 </mask>
                                                                 <g mask="url(#mask0_1_1918)">
-                                                                    <path d="M32.6953 51.8904H12.6562C6.83132 51.8904 2.10938 47.1684 2.10938 41.3435V12.656C2.10938 6.83107 6.83132 2.10913 12.6562 2.10913H41.3438C47.1687 2.10913 51.8906 6.83107 51.8906 12.656V32.8533" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                                    <path d="M22.043 13.2891H41.3438H22.043Z" fill="currentColor"></path>
-                                                                    <path d="M22.043 13.2891H41.3438" stroke="currentColor" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                                    <path d="M12.6562 21.7266H41.3438H12.6562Z" fill="currentColor"></path>
-                                                                    <path d="M12.6562 21.7266H41.3438" stroke="currentColor" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                                    <path d="M12.6562 30.1641H20.25H12.6562Z" fill="currentColor"></path>
-                                                                    <path d="M12.6562 30.1641H20.25" stroke="currentColor" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                                    <path d="M10.5469 13.0781C10.5469 14.5343 11.7274 15.7148 13.1836 15.7148C14.6398 15.7148 15.8203 14.5343 15.8203 13.0781C15.8203 11.6218 14.6398 10.4414 13.1836 10.4414C11.7274 10.4414 10.5469 11.6218 10.5469 13.0781Z" fill="white"></path>
-                                                                    <path d="M50.2534 50.2534C52.4364 48.0704 52.4364 44.5312 50.2534 42.3482L42.8591 34.9539C41.0237 33.1183 38.6858 31.8673 36.1403 31.3587L30.1641 30.164L31.3586 36.1404C31.8674 38.6857 33.1185 41.0235 34.9539 42.8591L42.3482 50.2534C44.5312 52.4364 48.0704 52.4364 50.2534 50.2534Z" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                                    <path
+                                                                        d="M32.6953 51.8904H12.6562C6.83132 51.8904 2.10938 47.1684 2.10938 41.3435V12.656C2.10938 6.83107 6.83132 2.10913 12.6562 2.10913H41.3438C47.1687 2.10913 51.8906 6.83107 51.8906 12.656V32.8533"
+                                                                        stroke="white" stroke-width="3"
+                                                                        stroke-miterlimit="10" stroke-linecap="round"
+                                                                        stroke-linejoin="round"></path>
+                                                                    <path d="M22.043 13.2891H41.3438H22.043Z"
+                                                                        fill="currentColor"></path>
+                                                                    <path d="M22.043 13.2891H41.3438"
+                                                                        stroke="currentColor" stroke-width="3"
+                                                                        stroke-miterlimit="10" stroke-linecap="round"
+                                                                        stroke-linejoin="round"></path>
+                                                                    <path d="M12.6562 21.7266H41.3438H12.6562Z"
+                                                                        fill="currentColor"></path>
+                                                                    <path d="M12.6562 21.7266H41.3438"
+                                                                        stroke="currentColor" stroke-width="3"
+                                                                        stroke-miterlimit="10" stroke-linecap="round"
+                                                                        stroke-linejoin="round"></path>
+                                                                    <path d="M12.6562 30.1641H20.25H12.6562Z"
+                                                                        fill="currentColor"></path>
+                                                                    <path d="M12.6562 30.1641H20.25"
+                                                                        stroke="currentColor" stroke-width="3"
+                                                                        stroke-miterlimit="10" stroke-linecap="round"
+                                                                        stroke-linejoin="round"></path>
+                                                                    <path
+                                                                        d="M10.5469 13.0781C10.5469 14.5343 11.7274 15.7148 13.1836 15.7148C14.6398 15.7148 15.8203 14.5343 15.8203 13.0781C15.8203 11.6218 14.6398 10.4414 13.1836 10.4414C11.7274 10.4414 10.5469 11.6218 10.5469 13.0781Z"
+                                                                        fill="white"></path>
+                                                                    <path
+                                                                        d="M50.2534 50.2534C52.4364 48.0704 52.4364 44.5312 50.2534 42.3482L42.8591 34.9539C41.0237 33.1183 38.6858 31.8673 36.1403 31.3587L30.1641 30.164L31.3586 36.1404C31.8674 38.6857 33.1185 41.0235 34.9539 42.8591L42.3482 50.2534C44.5312 52.4364 48.0704 52.4364 50.2534 50.2534Z"
+                                                                        stroke="white" stroke-width="3"
+                                                                        stroke-miterlimit="10" stroke-linecap="round"
+                                                                        stroke-linejoin="round"></path>
                                                                 </g>
                                                             </svg>
                                                         </span>
@@ -393,7 +428,16 @@
                                                 <div id="collapseFour" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Compelling content is key to engaging your audience and driving success. Our writing services cover a broad spectrum, including website content, blog posts, marketing copy, and more. We take the time to understand your brand and your goals to create content that is not only informative but also persuasive and aligned with your voice. From crafting attention-grabbing headlines to developing in-depth articles, we ensure that every piece of content is polished, professional, and impactful. Let us help you tell your story in a way that captivates and converts.</p>
+                                                        <p>Compelling content is key to engaging your audience and
+                                                            driving success. Our writing services cover a broad
+                                                            spectrum, including website content, blog posts, marketing
+                                                            copy, and more. We take the time to understand your brand
+                                                            and your goals to create content that is not only
+                                                            informative but also persuasive and aligned with your voice.
+                                                            From crafting attention-grabbing headlines to developing
+                                                            in-depth articles, we ensure that every piece of content is
+                                                            polished, professional, and impactful. Let us help you tell
+                                                            your story in a way that captivates and converts.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -423,7 +467,10 @@
                                                 <div id="collapseFive" class="accordion-collapse collapse"
                                                     data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Whether it’s crafting a striking brand identity, designing immersive digital experiences, or developing strategic marketing campaigns, we approach every project with creativity, precision, and passion.</p>
+                                                        <p>Whether it’s crafting a striking brand identity, designing
+                                                            immersive digital experiences, or developing strategic
+                                                            marketing campaigns, we approach every project with
+                                                            creativity, precision, and passion.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -466,8 +513,7 @@
                             <div class="text-center tp-funfact__item wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".1s">
                                 <h3 class="tp-funfact__number">
-                                    <b class="purecounter" data-purecounter-duration="1"
-                                        data-purecounter-end="5">5</b>+
+                                    <b class="purecounter" data-purecounter-duration="1" data-purecounter-end="5">5</b>+
                                 </h3>
                                 <div class="tp-funfact__text">
                                     <span>Business Award </span>
@@ -654,7 +700,8 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 g-5 order-sm-0">
                         <div class="tp-project__action-wrap wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".8s">
                             <div class="tp-project__action tp-btn__bounce">
-                                <a href="mailto:{{config('app.app_mail')}}" class="tp-project__more-title">MAIL US NOW</a>
+                                <a href="mailto:{{config('app.app_mail')}}" class="tp-project__more-title">MAIL US
+                                    NOW</a>
                                 <span class="tp-project__more-shape">
                                     <svg width="613" height="464" viewbox="0 0 613 464" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -796,7 +843,7 @@
                     <div class="swiper-slide">
                         <div class="tp-text__2-wrap">
                             <h3 class="tp-text__2-text">
-                                WRITING 
+                                WRITING
                                 <span>
                                     <svg width="42" height="46" viewbox="0 0 42 46" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -984,7 +1031,11 @@
                                     </svg>
                                 </span>
                             </h3>
-                            <p>If you ask our clients what it’s like working with us, they’ll tell you about our unwavering dedication, creativity, and the real success we deliver. We love building brands—whether it’s crafting visually stunning identities, designing immersive digital experiences, or driving strategic marketing campaigns, we bring passion and precision to every project.</p>
+                            <p>If you ask our clients what it’s like working with us, they’ll tell you about our
+                                unwavering dedication, creativity, and the real success we deliver. We love building
+                                brands—whether it’s crafting visually stunning identities, designing immersive digital
+                                experiences, or driving strategic marketing campaigns, we bring passion and precision to
+                                every project.</p>
 
                         </div>
                     </div>
@@ -993,6 +1044,186 @@
         </div>
     </section>
     <!-- tp choose us area end -->
+
+
+    <!-- tp pricing area start  -->
+    <section class="tp-pricing__area black-bg pt-120 pb-160">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="tp-price__title-box">
+                        <span class="mb-20 tp-section-title-pre">Update Pricing
+                            For courses</span>
+                        <div class="tp-section-title-wrap d-md-flex align-items-center justify-content-between">
+                            <h3 class="tp-section-title">
+                                Our <span>Courses Pricing Plans</span>
+                            </h3>
+                            <a href="courses" class="tp-btn-primary">
+                                <span>view all Courses</span>
+                                <i class="far fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tp-price__box-wrap mt-55">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="tp-price__item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
+                            <div class="tp-price__head mb-55">
+                                <p>Web Development</p>
+                                <h3 class="tp-price__value">$32<span>/ month</span></h3>
+                                <div class="tp-price__plan">
+                                    <span>4 Months Per Section</span>
+                                </div>
+                            </div>
+                            <div class="tp-price__list mb-55">
+                                <ul>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>
+                                            HTML
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>
+                                            CSS3
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>
+                                            Javascript
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>
+                                            PHP
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tp-price__action">
+                                <a href="contact" class="tp-price-btn tp-icon-style">
+                                    GET STARTED FOR FREE
+                                    <span>
+                                        <svg width="18" height="9" viewbox="0 0 18 9" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M15.9308 4.5H0.783485C0.351 4.5 0 4.248 0 3.9375C0 3.627 0.351 3.375 0.783485 3.375H15.9308C16.3633 3.375 16.7143 3.627 16.7143 3.9375C16.7143 4.248 16.3633 4.5 15.9308 4.5Z"
+                                                fill="currentColor"></path>
+                                            <path
+                                                d="M13.5585 9C13.3789 9 13.1995 8.93097 13.0629 8.7917C12.7889 8.5142 12.7889 8.06431 13.0629 7.78663L16.3073 4.5L13.0629 1.21319C12.7889 0.935693 12.7889 0.485624 13.0629 0.208125C13.337 -0.0693749 13.781 -0.0693749 14.055 0.208125L17.7948 3.99703C18.0688 4.27453 18.0688 4.72443 17.7948 5.00193L14.055 8.79066C13.9175 8.93097 13.7381 9 13.5585 9Z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="tp-price__item tp-price-active wow tpfadeUp" data-wow-duration=".9s"
+                            data-wow-delay=".5s">
+                            <div class="tp-price__head mb-55">
+                                <p>Mobile App Development </p>
+                                <h3 class="tp-price__value">$33<span>/month</span>
+                                </h3>
+                                <div class="tp-price__plan">
+                                    <span>6 Months Per Section</span>
+                                </div>
+                            </div>
+                            <div class="tp-price__list mb-55">
+                                <ul>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>Intro to Web</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span> React </span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>React Native</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>Fire Base</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tp-price__action">
+                                <a href="contact" class="tp-price-btn">
+                                    GET STARTED FOR FREE
+                                    <span>
+                                        <svg width="18" height="9" viewbox="0 0 18 9" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M15.9308 4.5H0.783485C0.351 4.5 0 4.248 0 3.9375C0 3.627 0.351 3.375 0.783485 3.375H15.9308C16.3633 3.375 16.7143 3.627 16.7143 3.9375C16.7143 4.248 16.3633 4.5 15.9308 4.5Z"
+                                                fill="currentColor"></path>
+                                            <path
+                                                d="M13.5585 9C13.3789 9 13.1995 8.93097 13.0629 8.7917C12.7889 8.5142 12.7889 8.06431 13.0629 7.78663L16.3073 4.5L13.0629 1.21319C12.7889 0.935693 12.7889 0.485624 13.0629 0.208125C13.337 -0.0693749 13.781 -0.0693749 14.055 0.208125L17.7948 3.99703C18.0688 4.27453 18.0688 4.72443 17.7948 5.00193L14.055 8.79066C13.9175 8.93097 13.7381 9 13.5585 9Z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="tp-price__item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
+                            <div class="p-0 tp-price__head mb-55">
+                                <p>Advance Video Editing</p>
+                                <h3 class="tp-price__value">$30<span>/month</span></h3>
+                                <div class="tp-price__plan">
+                                    <span>3 Months Per Section</span>
+                                </div>
+                            </div>
+                            <div class="tp-price__list mb-55">
+                                <ul>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>Movie Editing</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>TV shows Editing</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>Music Videos Editing</span>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-check-circle"></i>
+                                        <span>Commercials</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tp-price__action">
+                                <a href="contact" class="tp-price-btn">
+                                    GET STARTED FOR FREE
+                                    <span>
+                                        <svg width="18" height="9" viewbox="0 0 18 9" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M15.9308 4.5H0.783485C0.351 4.5 0 4.248 0 3.9375C0 3.627 0.351 3.375 0.783485 3.375H15.9308C16.3633 3.375 16.7143 3.627 16.7143 3.9375C16.7143 4.248 16.3633 4.5 15.9308 4.5Z"
+                                                fill="currentColor"></path>
+                                            <path
+                                                d="M13.5585 9C13.3789 9 13.1995 8.93097 13.0629 8.7917C12.7889 8.5142 12.7889 8.06431 13.0629 7.78663L16.3073 4.5L13.0629 1.21319C12.7889 0.935693 12.7889 0.485624 13.0629 0.208125C13.337 -0.0693749 13.781 -0.0693749 14.055 0.208125L17.7948 3.99703C18.0688 4.27453 18.0688 4.72443 17.7948 5.00193L14.055 8.79066C13.9175 8.93097 13.7381 9 13.5585 9Z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- tp pricing area end  -->
 
 
     <!-- tp pricing area start  -->
@@ -1049,13 +1280,13 @@
                                     <li>
                                         <i class="fas fa-check-circle"></i>
                                         <span>
-                                            Livechat  integration 
+                                            Livechat integration
                                         </span>
                                     </li>
                                 </ul>
                             </div>
                             <div class="tp-price__action">
-                                <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn tp-icon-style">
+                                <a href="contact" class="tp-price-btn tp-icon-style">
                                     GET STARTED FOR FREE
                                     <span>
                                         <svg width="18" height="9" viewbox="0 0 18 9" fill="none"
@@ -1077,7 +1308,7 @@
                             data-wow-delay=".5s">
                             <div class="tp-price__head mb-55">
                                 <p>STARTS FROM </p>
-                                <h3 class="tp-price__value">$299.99<span>/USD</span> 
+                                <h3 class="tp-price__value">$299.99<span>/USD</span>
                                     <span><em class="text-danger"><s>$599.99</s></em></span>
                                 </h3>
                                 <div class="tp-price__plan">
@@ -1109,7 +1340,7 @@
                                 </ul>
                             </div>
                             <div class="tp-price__action">
-                                <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                                <a href="contact" class="tp-price-btn">
                                     GET STARTED FOR FREE
                                     <span>
                                         <svg width="18" height="9" viewbox="0 0 18 9" fill="none"
@@ -1160,7 +1391,7 @@
                                 </ul>
                             </div>
                             <div class="tp-price__action">
-                                <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                                <a href="contact" class="tp-price-btn">
                                     GET STARTED FOR FREE
                                     <span>
                                         <svg width="18" height="9" viewbox="0 0 18 9" fill="none"

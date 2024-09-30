@@ -70,7 +70,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             </ul>
                         </div>
                         <div class="tp-price__action">
-                            <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                            <a href="contact" class="tp-price-btn">
                                 Get Started Today
                             </a>
                         </div>
@@ -123,7 +123,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             </ul>
                         </div>
                         <div class="tp-price__action">
-                            <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                            <a href="contact" class="tp-price-btn">
                                 Get Started Today
                             </a>
                         </div>
@@ -161,7 +161,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             </ul>
                         </div>
                         <div class="tp-price__action">
-                            <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                            <a href="contact" class="tp-price-btn">
                                 Get Started Today
                             </a>
                         </div>
@@ -174,7 +174,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                         <div class="tp-price__2-head mb-35">
                             <h3 class="tp-price__2-title"> Video Editing</h3>
                             <hr>
-                            <p>1 Month</p>
+                            <p>1 Month Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
                                     <span class="tp-price__2-currencey">$</span>20
@@ -201,7 +201,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             </ul>
                         </div>
                         <div class="tp-price__action">
-                            <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                            <a href="contact" class="tp-price-btn">
                                 Get Started Today
                             </a>
                         </div>
@@ -212,7 +212,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                         <div class="tp-price__2-head mb-35">
                             <h3 class="tp-price__2-title"> Advance Video Editing</h3>
                             <hr>
-                            <p>3 Months</p>
+                            <p>3 Months Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
                                     <span class="tp-price__2-currencey">$</span>30
@@ -251,7 +251,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             </ul>
                         </div>
                         <div class="tp-price__action">
-                            <a href="mailto:{{config('app.app_mail')}}" class="tp-price-btn">
+                            <a href="contact" class="tp-price-btn">
                                 Get Started Today
                             </a>
                         </div>

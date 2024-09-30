@@ -26,7 +26,7 @@ new class extends Component {
             <div class="tp-offcanvas__content">
                 <div class="tp-offcanvas__top mb-50 d-flex justify-content-between align-items-center">
                     <div class="tp-offcanvas__logo">
-                        <a href="home-main.html">
+                        <a href="/">
                             <img src="assets/img/logo/logo_old.jpg" width="150" alt="logo">
                         </a>
                     </div>
@@ -44,10 +44,13 @@ new class extends Component {
                                 <a href="{{route('contact')}}" wire:navigate>Contact</a>
                             </li>
                             <li>
-                                <a href="{{route('services')}}" wire:navigate>Our Service</a>
+                                <a href="{{route('services')}}" wire:navigate>Services</a>
                             </li>
                             <li>
-                                <a href="{{route('price')}}" wire:navigate>Our Plans</a>
+                                <a href="{{route('courses')}}" wire:navigate>Courses</a>
+                            </li>
+                            <li>
+                                <a href="{{route('price')}}" wire:navigate>Plans</a>
                             </li>
                         </ul>
                     </nav>
@@ -116,7 +119,7 @@ new class extends Component {
                 <div class="row align-items-center">
                     <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-6">
                         <div class="tp-main__logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="assets/img/logo/logo_old.jpg" width="150" alt="">
                             </a>
                         </div>
@@ -135,13 +138,13 @@ new class extends Component {
                                         <a href="{{route('contact')}}" wire:navigate>Contact</a>
                                     </li>
                                     <li>
-                                        <a href="{{route('services')}}" wire:navigate>Our Service</a>
+                                        <a href="{{route('services')}}" wire:navigate>Services</a>
                                     </li>
                                     <li>
-                                        <a href="{{route('courses')}}" wire:navigate>Our Courses</a>
+                                        <a href="{{route('courses')}}" wire:navigate>Courses</a>
                                     </li>
                                     <li>
-                                        <a href="{{route('price')}}" wire:navigate>Our Plans</a>
+                                        <a href="{{route('price')}}" wire:navigate>Plans</a>
                                     </li>
                                 </ul>
                             </nav>
