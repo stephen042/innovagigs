@@ -10,7 +10,7 @@
             <div class="tp-hero__social-content">
                 <ul>
                     <li>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/company/innovagigs/">
                             <i class="fab fa-linkedin-in"></i>
                             <span>LinkedIn</span>
                         </a>
