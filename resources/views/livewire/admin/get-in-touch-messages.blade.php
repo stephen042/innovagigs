@@ -3,7 +3,7 @@
         Get In Touch Messages
     </h3>
     <br>
-    <table class="min-w-full text-sm text-left text-zinc-950 dark:text-white">
+    <table class="min-w-full text-sm text-left text-zinc-950 dark:text-white" style="min-width: 800px">
         <thead class="text-zinc-500 dark:text-zinc-400">
             <tr>
                 <th class="px-4 py-2 border-b border-zinc-300 dark:border-zinc-700">S/N</th>
@@ -27,7 +27,7 @@
                     </div>
                 </td>
                 <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">{{ $message->email}}</td>
-                <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700">
+                <td class="px-4 py-4 border-b border-zinc-300 dark:border-zinc-700" width="30%">
                     <textarea disabled rows="5"
                         class="w-full sm:w-[90%] md:w-[95%] p-3 text-gray-600 border rounded-md cursor-not-allowed resize-none border-zinc-300 dark:border-zinc-700 bg-zinc-50 dark:bg-zinc-800 focus:outline-none">
                         {{$message->message}}
