@@ -34,7 +34,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             <p>4 Months Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
-                                    <span class="tp-price__2-currencey">$</span>32
+                                    <span class="tp-price__2-currencey">$</span>42
                                 </h3>
                                 <div class="tp-price__2-plan">
                                     <span>/ month</span>
@@ -87,7 +87,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             <p>6 Months Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
-                                    <span class="tp-price__2-currencey">$</span>33
+                                    <span class="tp-price__2-currencey">$</span>45
                                 </h3>
                                 <div class="tp-price__2-plan">
                                     <span>/ month</span>
@@ -177,7 +177,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             <p>1 Month Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
-                                    <span class="tp-price__2-currencey">$</span>20
+                                    <span class="tp-price__2-currencey">$</span>80
                                 </h3>
                                 <div class="tp-price__2-plan">
                                     <span>/ month</span>
@@ -215,7 +215,7 @@ data-background="{{asset('assets/img/project/project-bg-shape.png')}}">
                             <p>3 Months Per Section</p>
                             <div class="tp-price__2-head-text d-flex align-items-end">
                                 <h3 class="tp-price__2-value">
-                                    <span class="tp-price__2-currencey">$</span>30
+                                    <span class="tp-price__2-currencey">$</span>50
                                 </h3>
                                 <div class="tp-price__2-plan">
                                     <span>/ month</span>

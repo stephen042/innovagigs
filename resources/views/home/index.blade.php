@@ -1072,7 +1072,7 @@
                         <div class="tp-price__item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                             <div class="tp-price__head mb-55">
                                 <p>Web Development</p>
-                                <h3 class="tp-price__value">$32<span>/ month</span></h3>
+                                <h3 class="tp-price__value">$43<span>/ month</span></h3>
                                 <div class="tp-price__plan">
                                     <span>4 Months Per Section</span>
                                 </div>
@@ -1128,7 +1128,7 @@
                             data-wow-delay=".5s">
                             <div class="tp-price__head mb-55">
                                 <p>Mobile App Development </p>
-                                <h3 class="tp-price__value">$33<span>/month</span>
+                                <h3 class="tp-price__value">$45<span>/month</span>
                                 </h3>
                                 <div class="tp-price__plan">
                                     <span>6 Months Per Section</span>
@@ -1176,7 +1176,7 @@
                         <div class="tp-price__item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                             <div class="p-0 tp-price__head mb-55">
                                 <p>Advance Video Editing</p>
-                                <h3 class="tp-price__value">$30<span>/month</span></h3>
+                                <h3 class="tp-price__value">$50<span>/month</span></h3>
                                 <div class="tp-price__plan">
                                     <span>3 Months Per Section</span>
                                 </div>

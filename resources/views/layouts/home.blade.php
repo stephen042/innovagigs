@@ -160,3 +160,18 @@
 </body>
 
 </html>
+
+<div style="text-align: center; padding: 20px; background-color: #222222;">
+    <p>A PRODUCT OF &copy; <?php echo date("Y"); ?> <a href="https://www.innovagigs.com" target="_blank" rel="noopener noreferrer">INNOVAGIGS</a>. All Rights Reserved.</p>
+    <nav style="margin-top: 10px;">
+        <a href="/about" style="margin: 0 10px; color: #d8d8d8;">About Us</a> |
+        <a href="/contact" style="margin: 0 10px; color: #8d8d8;">Contact</a> |
+        <a href="/privacy-policy" style="margin: 0 10px; color: #8d8d8;">Privacy Policy</a> |
+        <a href="/terms" style="margin: 0 10px; color: #8d8d8;">Terms of Service</a>
+    </nav>
+    <div style="margin-top: 10px;">
+        <a href="https://www.facebook.com/yourstore" style="margin: 0 10px;" target="_blank">Facebook</a>
+        <a href="https://www.twitter.com/yourstore" style="margin: 0 10px;" target="_blank">Twitter</a>
+        <a href="https://www.instagram.com/yourstore" style="margin: 0 10px;" target="_blank">Instagram</a>
+    </div>
+</div>
