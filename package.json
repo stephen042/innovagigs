@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-      "dev": "node --max-old-space-size=4096 node_modules/vite/bin/vite.js",
+      "dev": "node --max-old-space-size=2096 node_modules/vite/bin/vite.js",
       "build": "vite build"
     },
     "devDependencies": {
